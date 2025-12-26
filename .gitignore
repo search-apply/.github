@@ -1,0 +1,6 @@
+# JetBrains IDEs (IntelliJ IDEA, PyCharm, WebStorm, etc.)
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
