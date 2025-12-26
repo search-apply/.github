@@ -1,6 +1,6 @@
-# Search & Apply
+# Search&Apply
 
-**Search & Apply** is a job search and application automation platform focused on improving transparency, efficiency, and outcomes in the hiring process.
+**Search&Apply** is a job search and application automation platform focused on improving transparency, efficiency, and outcomes in the hiring process.
 
 The project is a **technical automation platform** designed to eliminate routine and repetitive work in the job application process.
 
@@ -13,7 +13,7 @@ The project is a **technical automation platform** designed to eliminate routine
 
 ## ⚖️ Compliance & Ethics
 
-Search & Apply is designed to operate **fully within legal and ethical boundaries**:
+**Search&Apply** is designed to operate **fully within legal and ethical boundaries**:
 
 - Compliance with applicable laws and regulations
 - Respect for website **robots.txt** rules
