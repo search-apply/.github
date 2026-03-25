@@ -25,3 +25,11 @@ Automation is applied responsibly, transparently, and with respect for platform 
 ## 📌 Project Status
 
 This is an actively evolving project. Scope, features, and implementation details may change as real-world usage and feedback are incorporated.
+
+## 🤝 Support & Sponsorship
+
+If you find this project useful and would like to support its development or explore investment opportunities, please contact:
+
+- 📧 **oleh@kutafin.io**
+
+Sponsorship or investment does **not** influence project behavior, compliance, or platform policies.
