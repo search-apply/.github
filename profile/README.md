@@ -15,8 +15,8 @@ posting you pick. Applying stays in your hands.
    claude mcp add). Any MCP client over HTTP works.
 3. Sign in when the assistant asks. Every tool runs as you, nothing is anonymous.
 
-Details and the full tool list: [docs/mcp.md](../docs/mcp.md).
-Things to ask it: [docs/mcp-examples.md](../docs/mcp-examples.md).
+Details and the full tool list: [docs/mcp.md](https://github.com/search-apply/.github/blob/main/docs/mcp.md).
+Things to ask it: [docs/mcp-examples.md](https://github.com/search-apply/.github/blob/main/docs/mcp-examples.md).
 
 ## What your assistant can do
 
@@ -42,7 +42,7 @@ no scraped copies of copies.
 ## More connectors
 
 The same tools are coming to more ecosystems, a ChatGPT plugin first.
-The short list of what is next: [docs/future-updates.md](../docs/future-updates.md).
+The short list of what is next: [docs/future-updates.md](https://github.com/search-apply/.github/blob/main/docs/future-updates.md).
 
 ## The web app
 
