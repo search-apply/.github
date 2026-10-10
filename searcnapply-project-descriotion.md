@@ -1,4 +1,4 @@
-# Search&Apply
+# searchnapply.com
 
 ## Project Description — Feature Specification & User Flows
 
@@ -8,7 +8,7 @@
 
 # 1. Project Overview
 
-Search&Apply is a job search and application automation platform designed to eliminate repetitive work in the job application process. The app handles everything from searching for job openings across multiple platforms to generating tailored resumes and cover letters, applying on behalf of the user, managing email communication with recruiters and HR, and scheduling interviews.
+searchnapply.com is a job search and application automation platform designed to eliminate repetitive work in the job application process. The app handles everything from searching for job openings across multiple platforms to generating tailored resumes and cover letters, applying on behalf of the user, managing email communication with recruiters and HR, and scheduling interviews.
 
 ## 1.1 Goals
 
@@ -19,7 +19,7 @@ Search&Apply is a job search and application automation platform designed to eli
 
 ## 1.2 Compliance & Ethics
 
-Search&Apply is designed to operate fully within legal and ethical boundaries:
+searchnapply.com is designed to operate fully within legal and ethical boundaries:
 
 - Compliance with applicable laws and regulations.
 - Respect for website robots.txt rules.
@@ -348,7 +348,7 @@ A dashboard showing the user's own application activity:
 
 Per-position and market-level data aggregated from all users and public sources:
 
-- Number of users who applied for a given position through Search&Apply.
+- Number of users who applied for a given position through searchnapply.com.
 - Public data about the position from LinkedIn, Indeed, and other platforms (e.g., total applicant count where available).
 - Market trends: demand by role, location, and salary ranges.
 
