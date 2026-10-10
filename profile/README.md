@@ -66,6 +66,10 @@ invoices are handled through Stripe.
   your documents; it sees only your work content and the job.
 - Your data is used to help you apply, nothing else.
 
+## Contact
+
+Questions, feedback, partnership: info@searchnapply.com
+
 ## Status
 
 Live at https://searchnapply.com and evolving. Features change as real usage
