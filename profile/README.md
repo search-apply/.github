@@ -1,5 +1,7 @@
 # searchnapply.com
 
+[![searchnapply MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply/badges/score.svg)](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply)
+
 Your AI assistant searches for your next job. searchnapply.com is a job-search
 connector: plug it into Claude, or into any assistant that speaks MCP, and the
 assistant works your job search the way you would. It searches real openings
@@ -14,6 +16,9 @@ posting you pick. Applying stays in your hands.
    (in Claude: Settings, Connectors, Add custom connector; in Claude Code:
    claude mcp add). Any MCP client over HTTP works.
 3. Sign in when the assistant asks. Every tool runs as you, nothing is anonymous.
+
+Find it on [Glama](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply) and in the
+[official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=com.searchnapply) as `com.searchnapply/searchnapply`.
 
 Details and the full tool list: [docs/mcp.md](https://github.com/search-apply/.github/blob/main/docs/mcp.md).
 Things to ask it: [docs/mcp-examples.md](https://github.com/search-apply/.github/blob/main/docs/mcp-examples.md).
