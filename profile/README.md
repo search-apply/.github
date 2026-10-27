@@ -1,6 +1,4 @@
-# searchnapply.com
-
-[![searchnapply MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply/badges/score.svg)](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply)
+# searchnapply.com [![searchnapply MCP connector – tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply/badges/score.svg)](https://glama.ai/mcp/connectors/com.searchnapply.api/searchnapply)
 
 Your AI assistant searches for your next job. searchnapply.com is a job-search
 connector: plug it into Claude, or into any assistant that speaks MCP, and the
